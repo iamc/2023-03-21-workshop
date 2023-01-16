@@ -35,7 +35,9 @@ navigation = [
     { name = "Communication", target = "communication/" }
 ]
 
-twitter_image = "https://raw.githubusercontent.com/coderefinery/coderefinery.org/main/content/logo/coderefinery.png"
+twitter_image = "https://raw.githubusercontent.com/coderefinery/coderefinery-artwork/main/socialshare/socialshare-workshop.png"
+description = "CodeRefinery workshop of 21-23 and 28-30, 2023."
+
 
 # you can place multiple logos like this
 # the image file(s) need to be placed in content/logos
