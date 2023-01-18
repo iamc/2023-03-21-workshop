@@ -6,6 +6,7 @@ base_url = "https://coderefinery.github.io/2023-03-21-workshop/"
 
 # When adapting the title, do not forget to also adjust base_url above
 title = "CodeRefinery workshop March 21-23 and 28-30, 2023"
+description = "Free workshop on git, testing, documentation, and more in a workshop - targeted towards researchers and scientists."
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -36,7 +37,6 @@ navigation = [
 ]
 
 twitter_image = "https://raw.githubusercontent.com/coderefinery/coderefinery-artwork/main/socialshare/socialshare-workshop.png"
-description = "CodeRefinery workshop of 21-23 and 28-30, 2023."
 
 
 # you can place multiple logos like this
