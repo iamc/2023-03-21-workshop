@@ -118,9 +118,9 @@ Volunteer to be an **team leader** at CodeRefinery, and you will:
   exercise rooms anyway.
 
 **Am I good enough to be a team leader?**  If you are asking this
-question, probably you are.  You should have some familiarity with
-Git, provide some initial advice on obvious error messages, and
-be able to call us for advanced help when it's needed.
+question, probably you are. If you have some familiarity with
+Git, you can provide some initial advice on obvious error messages, 
+but the idea is that you are able to ask for advanced help when it's needed.
 
 **You don't have to be located in the Nordics**. We welcome volunteers from
 institutions also outside the Nordics because volunteer team leaders help
