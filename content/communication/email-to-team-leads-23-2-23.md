@@ -1,7 +1,7 @@
 +++
 title = "Email to team leaders 23-2-23"
 [extra]
-subject = "CodeRefinery Workshop info"
+subject = "CodeRefinery Workshop info for team leaders"
 +++
 
 Dear participant,

@@ -1,7 +1,7 @@
 +++
 title = "Email to observers/general helpers/co-teachers 23-2-23"
 [extra]
-subject = "CodeRefinery Workshop info"
+subject = "CodeRefinery Workshop info for helpers, co-instructors, and observers"
 +++
 
 
