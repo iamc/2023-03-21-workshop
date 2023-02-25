@@ -1,5 +1,5 @@
 +++
-title = "Email to team leaders 23-2-23"
+title = "Email to team leaders 23-02-2023"
 [extra]
 subject = "CodeRefinery Workshop info for team leaders"
 +++
@@ -28,5 +28,5 @@ More information
 
 We will add additional fields in the registration form closer to the workshop. Please follow the email communication.
 
-Greetings,  
+Greetings,
 CodeRefinery team
