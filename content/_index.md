@@ -12,7 +12,7 @@ support your community!
   - Possibility of [credit points](certificates/) to those in Finland.
 
 
-## Be an team leader
+## Be a team leader
 
 Do you know some of the topics, but want to review them, why not [attend as an
 team leader](join/#volunteer-as-team-lead)?  You don't need to be an
