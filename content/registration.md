@@ -1,6 +1,9 @@
 +++
 +++
 
+**There is no deadline** and you are welcome to register and join even after
+the event started.
+
 **Before signing up** please also read [this privacy note about tools/services
 we use](requirements/#privacy-and-tools-online-services).
 
