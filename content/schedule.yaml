@@ -29,7 +29,7 @@ schedule:
         ends: 11:30
         title: Introduction to version control - part 1/2
         url: https://coderefinery.github.io/git-intro/
-        presenters: TBA
+        presenters: Diana and Bjørn
   - title: "Day 2"
     date: "2023-03-22"
     sessions:
@@ -40,7 +40,7 @@ schedule:
         ends: 11:30
         title: Introduction to version control - part 2/2
         url: https://coderefinery.github.io/git-intro/
-        presenters: TBA
+        presenters: Diana and Bjørn
   - title: "Day 3"
     date: "2023-03-23"
     sessions:
@@ -51,7 +51,7 @@ schedule:
         ends: 11:30
         title: Collaborative distributed version control
         url: https://coderefinery.github.io/git-collaborative/
-        presenters: TBA
+        presenters: Dhanya and Radovan
   - title: "Day 4"
     date: "2023-03-28"
     sessions:
@@ -67,12 +67,12 @@ schedule:
         ends: 9:15
         title: Reproducible research and FAIR data
         url: https://coderefinery.github.io/reproducible-research/
-        presenters: TBA
+        presenters: Radovan and TBA
       - starts: 9:15
         ends: 10:30
         title: Social coding and open software
         url: https://coderefinery.github.io/social-coding/
-        presenters: TBA
+        presenters: Radovan and TBA
   - title: "Day 5"
     date: "2023-03-29"
     sessions:
@@ -83,12 +83,12 @@ schedule:
         ends: 8:45
         title: Jupyter
         url: https://coderefinery.github.io/jupyter/
-        presenters: TBA
+        presenters: Johan and Teemu
       - starts: 8:45
         ends: 10:30
         title: Documentation
         url: https://coderefinery.github.io/documentation/
-        presenters: TBA
+        presenters: Bjørn and Johan
   - title: "Day 6"
     date: "2023-03-30"
     sessions:
@@ -99,12 +99,12 @@ schedule:
         ends: 8:45
         title: Software testing
         url: https://coderefinery.github.io/testing/
-        presenters: TBA
+        presenters: Thomas and Teemu
       - starts: 9:00
         ends: 10:15
         title: Modular code development
         url: https://coderefinery.github.io/modular-type-along/
-        presenters: TBA
+        presenters: Thomas and TBA
       - starts: 10:15
         ends: 10:30
         title: Concluding remarks and where to go from here
