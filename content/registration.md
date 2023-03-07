@@ -12,3 +12,8 @@ sessions, please do!  This usually takes the form of a "watching party" with
 coordinated breaks for exercises.  You can manage that on your own but all
 participants should still register with us individually so that they get all
 necessary practical information and support.
+
+**Should all in a team sign up? Or only one person?** We recommend that all
+register so that they get all necessary information. Team leads for local
+exercise groups can select "I am attending a local exercise room" and "I might
+be interested in being a team leader".
