@@ -15,6 +15,8 @@ support your community!
   - [Registration Week 2](https://www.tudelft.nl/en/events/2023/library/coderefinery-workshops-ii)
 - VU Amsterdam
   - [Registration](https://vu.nl/en/events/2023/workshops-coderefinery)
+- EMBL (more info soon)
+- San Sebastian (more info soon)
 
 
 ## Be a team leader
