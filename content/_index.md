@@ -10,6 +10,11 @@ support your community!
 - [**Aalto University**](https://scicomp.aalto.fi/):
   - Local in-person exercise session and local support.
   - Possibility of [credit points](@/certificates.md) to those in Finland.
+- TU Delft
+  - [Registration Week 1](https://www.tudelft.nl/en/events/2023/library/coderefinery-workshops-i)
+  - [Registration Week 2](https://www.tudelft.nl/en/events/2023/library/coderefinery-workshops-ii)
+- VU Amsterdam
+  - [Registration](https://vu.nl/en/events/2023/workshops-coderefinery)
 
 
 ## Be a team leader
