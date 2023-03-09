@@ -2,11 +2,13 @@
 title = "Schedule"
 +++
 
-## Partners
+## Partners and local exercise groups
 
 Some partners offer local support, such as breakout rooms, to their local
-groups. [Become a partner](https://coderefinery.org/organization/partners/) to
+teams. You can [become a partner](https://coderefinery.org/organization/partners/) to
 support your community!
+
+We collect here the exercise groups that we know:
 - [**Aalto University**](https://scicomp.aalto.fi/):
   - Local in-person exercise session and local support.
   - Possibility of [credit points](@/certificates.md) to those in Finland.
