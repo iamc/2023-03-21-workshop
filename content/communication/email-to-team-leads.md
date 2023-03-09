@@ -1,5 +1,5 @@
 +++
-title = "Email to team leaders 23-02-2023"
+title = "2023-02-23: Email to team leaders"
 [extra]
 subject = "CodeRefinery Workshop info for team leaders"
 +++
