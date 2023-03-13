@@ -10,7 +10,8 @@ template = "join.html"
   </p>
 </div>
 
-Anyone may watch the livestream (<https://twitch.tv/coderefinery>)
+Anyone may watch the livestream (<https://twitch.tv/coderefinery>).
+You are free to attend just those days you want!  
 Read more about [how to attend a livestream course](https://coderefinery.github.io/manuals/how-to-attend-stream/).
 Some partners host own video- or in-person exercise rooms. 
 
