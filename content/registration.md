@@ -4,7 +4,7 @@
 **There is no deadline** and you are welcome to register and join even after
 the event started.
 
-**You can attend just those days you want** but please register anyway! 
+**You can attend just those days you want** but please register anyway!  
 Skip the lessons you already know or don't fit you schedule.
 For the days you cannot attend but would like to learn check the lesson material (links in the schedule below).
 
